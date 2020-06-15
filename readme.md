@@ -10,7 +10,7 @@ git commit -m ''
 // 3.来到GitHub new 一个 ssh 将ssh密钥复制进去 建立电脑与 GitHub 连接
 
 如何将本地仓库 添加到 远程仓库
-方式一
+### 方式一
 - 第一步 创建一个远程仓库 创建一个本地仓库
 - 第二部 建立本地仓库与远程仓库连接 
     git remote add origin https://github.com/pink18/liyuxin.git
@@ -27,7 +27,7 @@ git add ----> git commit ----> git push
 注意：只有第一次 才需要建立 电脑与GitHub 连接
       只有是一个新的仓库 才需要建立 本地仓库与远程仓库的连接
 
-方式二
+### 方式二
 直接使用GitHub 工具直接上传
 
 
